@@ -7,6 +7,6 @@
 
 #### Лабораторные работы по введению в разработку ПО
 1. [Некоторые полезные практики и инструменты современной разработки программ](https://github.com/citrux/introduction-to-software-development-1)
-2. [Разработка через тестирование (TDD)]((https://github.com/citrux/introduction-to-software-development-2)
+2. [Разработка через тестирование (TDD)](https://github.com/citrux/introduction-to-software-development-2)
 3. ...
 4. ...
