@@ -2,7 +2,7 @@
 #### Лабораторные работы по технологиям программирования
 1. [Некоторые полезные практики и инструменты современной разработки программ](https://github.com/citrux/programming-technologies-1)
 2. [Изучение паттерна MVC](https://github.com/citrux/programming-technologies-2)
-3. ...
+3. [Тестирование с использованием mock-объектов](https://github.com/citrux/programming-technologies-3)
 4. ...
 
 #### Лабораторные работы по введению в разработку ПО
